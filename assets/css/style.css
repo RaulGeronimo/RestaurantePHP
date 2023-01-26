@@ -1,0 +1,46 @@
+*{
+    margin: :0;
+    padding:0;
+    box-sizing: border-box;
+       color:black;
+}
+
+.formulario{
+    width:900px;
+    background: #24303c;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color:black;
+}
+
+.formulario h4{
+    font-size: 22px;
+    margin-bottom: 20px;
+       color:black;
+}
+.controls{
+    width: 100%;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #ffff;
+     font-family: 'calibri';
+     font-size: 18px;
+      text-align: center;
+      background: #24303c;
+      color: black;
+ }
+
+.formulario .botons{
+    width: 100%;
+     text-align: center;
+     padding: 12px;
+     color: black
+     color: black
+     font-size: 16px;
+
+}
+
+
