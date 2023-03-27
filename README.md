@@ -22,6 +22,8 @@ cd RestaurantePHP
 
 ### Ejecución
 Para poder utilizar el proyecto de manera local, en el navegador debera entrar a la pagina
-> Enlace: http://localhost/restaurante/
+> Enlace: http://localhost/Restaurante/
+
+Necesitas tener la base de datos en el gestor de bases de datos, asi como actualizar la conexion que se encuentra en el archivo `php/Conexion.php`, la base de datos se encuentra dentro de la carpeta `Base de Datos`.
 
 > Demo: https://restaurantepaginaweb.000webhostapp.com/
